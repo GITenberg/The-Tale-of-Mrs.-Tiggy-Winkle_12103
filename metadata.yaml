@@ -1,0 +1,29 @@
+_repo: The-Tale-of-Mrs.-Tiggy-Winkle_12103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hedgehogs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Tale of Mrs. Tiggy-Winkle
+url: http://www.gutenberg.org/ebooks/12103
